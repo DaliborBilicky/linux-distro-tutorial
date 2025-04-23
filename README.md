@@ -102,6 +102,63 @@ Examples:
 
 ---
 
+## 🎨 Desktop Polish & User Experience Enhancers
+
+### 🧽 App Launchers & Clipboard Managers
+- **Application Launchers:**
+  - `rofi`, `dmenu`, `ulauncher`, `wofi` (Wayland)
+- **Clipboard Managers:**
+  - `clipmenu`, `copyq`, `parcellite`
+
+### 🌄 Wallpaper & Appearance Tools
+- **Wallpaper Setters/Changers:**
+  - `feh`, `nitrogen`, `swaybg`
+- **Themes & Icons:**
+  - `arc-theme`, `papirus-icon-theme`
+- **Fonts:**
+  - `noto-fonts`, `ttf-roboto`, `ttf-dejavu`, `nerd-fonts`
+
+### 🔅 Brightness Control
+- **Backlight Control:**
+  - `brightnessctl`, `xbacklight`, `light`, `ddcutil`
+- GUI tools: `xfce4-power-manager`, `brightness-controller`
+
+### 🌙 Eye Protection (Blue Light Filter)
+- **CLI & GUI tools:**
+  - `redshift`, `redshift-gtk`, `gammy`, `sct`, `wl-gammactl` (Wayland)
+
+---
+
+## 🔋 Power Management (Especially for Laptops)
+
+### Power Tools
+- `acpi` – battery status
+- `upower` – power info daemon
+- `tlp` – advanced power-saving config tool
+- `powertop` – monitor and tune power usage
+- `xfce4-power-manager` – GUI for suspend/hibernate, brightness, battery level
+- `systemd-logind` – handles lid close actions (suspend, lock)
+
+---
+
+## 🔔 Notifications
+
+- **Notification Daemons:**
+  - `dunst` (lightweight)
+  - `xfce4-notifyd`
+  - `mako` (for Wayland)
+
+---
+
+## 📸 Screenshots & Media Tools
+
+- **Screenshot Utilities:**
+  - `flameshot`, `gnome-screenshot`, `spectacle`, `grim` + `slurp` (Wayland)
+- **Screen Recording:**
+  - `obs-studio`, `simplescreenrecorder`, `wf-recorder` (Wayland)
+
+---
+
 ## 🧪 Building Your Own Distro
 
 Steps to build your minimal Linux system:
